@@ -425,7 +425,7 @@
     FoodRainbowCannabisButter: 2
     FoodSnackChocolateBar: 2
 
-- type: microwaveMealRecipe
+- type: microwaveMealRecipe # imp
   id: RecipeBoiledSpiderLeg
   name: boiled spider leg recipe
   result: FoodMeatSpiderlegCooked
