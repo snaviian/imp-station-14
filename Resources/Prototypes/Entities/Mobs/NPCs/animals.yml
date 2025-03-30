@@ -2536,8 +2536,8 @@
   - type: Butcherable
     spawned:
     - id: FoodMeatSpider
-      amount: 1
-    - id: FoodMeatSpiderLeg
+      amount: 1 # imp
+    - id: FoodMeatSpiderLeg # imp
       amount: 2
   - type: CombatMode
   - type: Body
