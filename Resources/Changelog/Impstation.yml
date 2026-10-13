@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: mqole
-  changes:
-  - message: Cigar cases can no longer store items bigger than cigars.
-    type: Remove
-  id: 2485
-  time: '2025-12-14T11:10:24.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3852
 - author: msTheowo
   changes:
   - message: Thaven clothing offsets have been slightly changed.
@@ -4047,3 +4040,11 @@
   id: 2984
   time: '2026-10-11T11:06:03.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4686
+- author: dubdubchan
+  changes:
+  - message: Synthesis Specialists will no longer get stranded when the other FTLs
+      away.
+    type: Fix
+  id: 2985
+  time: '2026-10-13T03:59:34.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4656
