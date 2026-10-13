@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: msTheowo
-  changes:
-  - message: Thaven clothing offsets have been slightly changed.
-    type: Tweak
-  id: 2486
-  time: '2025-12-18T07:20:24.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3868
 - author: honeyed-lemons
   changes:
   - message: A portable incubator has been added to the "Meat Manipulation" Research
@@ -4048,3 +4041,10 @@
   id: 2985
   time: '2026-10-13T03:59:34.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4656
+- author: fancyplanks
+  changes:
+  - message: Yet more wall adjustments
+    type: Tweak
+  id: 2986
+  time: '2026-10-13T06:09:37.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4675
