@@ -1,13 +1,4 @@
 ﻿Entries:
-- author: honeyed-lemons
-  changes:
-  - message: Puddles are back to being bigger (but not as deep!)
-    type: Tweak
-  - message: Advanced Mops are more Advanced
-    type: Tweak
-  id: 2492
-  time: '2025-12-21T02:12:17.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3846
 - author: TheGrimbeeper
   changes:
   - message: Changelings no longer out themselves by buying flash immunity.
@@ -4046,3 +4037,10 @@
   id: 2991
   time: '2026-10-21T02:32:32.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4694
+- author: mothrii, meatsmall
+  changes:
+  - message: Elkridge, Haven, and Reach are ready for Halloween
+    type: Tweak
+  id: 2992
+  time: '2026-10-21T03:01:28.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4680
