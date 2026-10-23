@@ -1,13 +1,4 @@
 ﻿Entries:
-- author: Simul-Ad-Astra
-  changes:
-  - message: Hotsauce is actually hot now
-    type: Tweak
-  - message: 4 new hotsauces straight from the labs of Discount Dan's!
-    type: Add
-  id: 2495
-  time: '2025-12-21T07:05:45.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3755
 - author: Veenomine, TheGrimbeeper, ultramario1998
   changes:
   - message: she is trapped
@@ -4046,3 +4037,11 @@
   id: 2994
   time: '2026-10-22T22:15:38.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4458
+- author: portfiend
+  changes:
+  - message: All three types of cream soda (regular, berry, orange) have new glass
+      cup sprites.
+    type: Add
+  id: 2995
+  time: '2026-10-23T19:53:13.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4696
