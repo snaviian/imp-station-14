@@ -2,8 +2,8 @@
   id: Geode
   mapName: 'Geode Outpost'
   mapPath: /Maps/_Impstation/geode.yml
-  minPlayers: 7
-  maxPlayers: 25
+  minPlayers: 8
+  maxPlayers: 27
   stations:
     Geode:
       stationProto: StandardNanotrasenStation
