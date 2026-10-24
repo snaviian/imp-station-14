@@ -46487,13 +46487,6 @@ entities:
     - type: Transform
       pos: -31.288624,-29.112822
       parent: 2
-- proto: EffectRCDConstruct0
-  entities:
-  - uid: 4477
-    components:
-    - type: Transform
-      pos: 28.5,15.5
-      parent: 2
 - proto: EggSpider
   entities:
   - uid: 2062
